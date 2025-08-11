@@ -2,21 +2,12 @@
 <h3 align="center">🎨 Crafting intuitive UI & engaging frontend experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d7/a0/00/d7a000c24ed870d402fe38f7b1d5c8ca.gif">
 - 🔭 I’m currently <b>creating seamless UI/UX experiences for a real-world app project.</b>
-
-
-
 - 🌱 I’m currently learning **Advanced UI/UX principles, frontend performance optimization and modern frontend workflows.**
-
 - 👯 I’m looking to collaborate on **Creative UI/UX projects and modern frontend web apps.**
-
 - 👨‍💻 All of my projects are available at [anupamaneupane.com.np](anupamaneupane.com.np)
-
 - 💬 Ask me about **Bridging design and code for pixel-perfect results**
-
 - 📫 How to reach me **anupaneupane1994@gmail.com**
-
 - 📄 Know about my experiences [anupamaneupane.com.np/resume.pdf](anupamaneupane.com.np/resume.pdf)
-
 - ⚡ Fun fact **I judge apps by their UI before I even download them.**
 
 <h3 align="left">Connect with me:</h3>
