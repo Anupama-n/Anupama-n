@@ -1,7 +1,8 @@
 <h1 align="center">You Found Anupama!</h1>
 <h3 align="center">🎨 Crafting intuitive UI & engaging frontend experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d7/a0/00/d7a000c24ed870d402fe38f7b1d5c8ca.gif">
-- 🔭 I’m currently **creating seamless UI/UX experiences for a real-world app project.**
+- 🔭 I’m currently <b>creating seamless UI/UX experiences for a real-world app project.</b>
+
 
 
 - 🌱 I’m currently learning **Advanced UI/UX principles, frontend performance optimization and modern frontend workflows.**
